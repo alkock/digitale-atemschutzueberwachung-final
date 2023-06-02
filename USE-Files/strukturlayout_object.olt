@@ -1,0 +1,2651 @@
+<?xml version="1.0" encoding="UTF-8"?><diagram_Layout version="13">
+    <diagramOptions>
+        <autolayout>false</autolayout>
+        <antialiasing>false</antialiasing>
+        <showassocnames>false</showassocnames>
+        <showattributes>true</showattributes>
+        <showmultiplicities>false</showmultiplicities>
+        <showoperations>false</showoperations>
+        <showrolenames>false</showrolenames>
+        <showgrid>false</showgrid>
+        <ShowStates>false</ShowStates>
+    </diagramOptions>
+    <node id="Datum1" sizeCalculated="true" type="Object">
+        <name>Datum1</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>230.0</x>
+            <y>34.22342346233755</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzkraft3" sizeCalculated="true" type="Object">
+        <name>Einsatzkraft3</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>15.37534877959797</x>
+            <y>312.72241846151513</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzkraft2" sizeCalculated="true" type="Object">
+        <name>Einsatzkraft2</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>14.870228933922021</x>
+            <y>250.0</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzkraft5" sizeCalculated="true" type="Object">
+        <name>Einsatzkraft5</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>350.5953084933632</x>
+            <y>267.33507295537186</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzkraft4" sizeCalculated="true" type="Object">
+        <name>Einsatzkraft4</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>350.5941800437929</x>
+            <y>206.16886942570312</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzkraft7" sizeCalculated="true" type="Object">
+        <name>Einsatzkraft7</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>703.0863903164857</x>
+            <y>206.0</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzkraft6" sizeCalculated="true" type="Object">
+        <name>Einsatzkraft6</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>351.857592387547</x>
+            <y>328.86187372107133</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzkraft9" sizeCalculated="true" type="Object">
+        <name>Einsatzkraft9</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>703.6760608195799</x>
+            <y>331.0</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzkraft8" sizeCalculated="true" type="Object">
+        <name>Einsatzkraft8</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>705.1931844698239</x>
+            <y>271.3402852962837</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Trupp3" sizeCalculated="true" type="Object">
+        <name>Trupp3</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>722.3355676609704</x>
+            <y>25.9351667739042</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzauftrag2" sizeCalculated="true" type="Object">
+        <name>Einsatzauftrag2</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>536.0625425300129</x>
+            <y>121.72767753176925</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzauftrag3" sizeCalculated="true" type="Object">
+        <name>Einsatzauftrag3</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>821.3762100397093</x>
+            <y>111.48230768626581</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzauftrag1" sizeCalculated="true" type="Object">
+        <name>Einsatzauftrag1</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>135.23317469054655</x>
+            <y>114.14688703556774</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Trupp1" sizeCalculated="true" type="Object">
+        <name>Trupp1</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>6.12805954222415</x>
+            <y>27.389158268463518</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzkraft1" sizeCalculated="true" type="Object">
+        <name>Einsatzkraft1</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>15.197056467479456</x>
+            <y>187.2592911089892</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Trupp2" sizeCalculated="true" type="Object">
+        <name>Trupp2</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>347.9633119446312</x>
+            <y>121.57049366795047</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="PAGeraet4" sizeCalculated="true" type="Object">
+        <name>PAGeraet4</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>528.1479923929984</x>
+            <y>205.02229595401036</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="PAGeraet3" sizeCalculated="true" type="Object">
+        <name>PAGeraet3</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>182.37377876003234</x>
+            <y>313.777152611866</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="PAGeraet2" sizeCalculated="true" type="Object">
+        <name>PAGeraet2</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>183.36968320651283</x>
+            <y>250.0</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="PAGeraet1" sizeCalculated="true" type="Object">
+        <name>PAGeraet1</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>183.08492237537064</x>
+            <y>188.41085077169623</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="Einsatzinformationen1" sizeCalculated="true" type="Object">
+        <name>Einsatzinformationen1</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>340.1514860179377</x>
+            <y>12.458824314713809</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="PAGeraet9" sizeCalculated="true" type="Object">
+        <name>PAGeraet9</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>868.0</x>
+            <y>330.0</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="PAGeraet8" sizeCalculated="true" type="Object">
+        <name>PAGeraet8</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>867.9173061335405</x>
+            <y>269.3926165566022</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="PAGeraet7" sizeCalculated="true" type="Object">
+        <name>PAGeraet7</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>868.4785328854757</x>
+            <y>202.75165012698386</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="PAGeraet6" sizeCalculated="true" type="Object">
+        <name>PAGeraet6</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>525.9268089043509</x>
+            <y>329.0</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <node id="PAGeraet5" sizeCalculated="true" type="Object">
+        <name>PAGeraet5</name>
+        <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+            <x>527.2721320186546</x>
+            <y>269.0</y>
+        </strategy>
+        <hidden>false</hidden>
+    </node>
+    <edge type="BinaryEdge">
+        <source>Trupp1</source>
+        <target>Einsatzkraft3</target>
+        <name>A_Trupp_Einsatzkraft</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>Einsatzkraefte {ordered}</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::3</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>2..3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::3</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::3</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>3.0</x>
+                    <y>57.0</y>
+                </strategy>
+                <id>1</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::2" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>2</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>2.0</x>
+                    <y>329.0</y>
+                </strategy>
+                <id>2</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]::WayPoint::3" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>3</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft3, trupp:Trupp1)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp2</source>
+        <target>Einsatzauftrag2</target>
+        <name>A_Trupp_Einsatzauftrag</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>aktuellerEinsatzauftrag</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzauftrag</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag2, trupp:Trupp2)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzkraft4</source>
+        <target>PAGeraet4</target>
+        <name>A_Einsatzkraft_PAGeraet</name>
+        <properties>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Einsatzkraft_PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::WayPoint::0</related0>
+                        <related1>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet4, einsatzkraft:Einsatzkraft4)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzkraft9</source>
+        <target>PAGeraet9</target>
+        <name>A_Einsatzkraft_PAGeraet</name>
+        <properties>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Einsatzkraft_PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::WayPoint::0</related0>
+                        <related1>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet9, einsatzkraft:Einsatzkraft9)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp1</source>
+        <target>Einsatzauftrag1</target>
+        <name>A_Trupp_Einsatzauftrag</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>aktuellerEinsatzauftrag</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzauftrag</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag1, trupp:Trupp1)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzkraft3</source>
+        <target>PAGeraet3</target>
+        <name>A_Einsatzkraft_PAGeraet</name>
+        <properties>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Einsatzkraft_PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::WayPoint::0</related0>
+                        <related1>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet3, einsatzkraft:Einsatzkraft3)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp3</source>
+        <target>Einsatzkraft9</target>
+        <name>A_Trupp_Einsatzkraft</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>2..3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::6</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>Einsatzkraefte {ordered}</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::6</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::6</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>760.0</x>
+                    <y>77.0</y>
+                </strategy>
+                <id>1</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::2" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>2</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>760.0</x>
+                    <y>77.0</y>
+                </strategy>
+                <id>2</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::3" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>761.0</x>
+                    <y>199.0</y>
+                </strategy>
+                <id>3</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::4" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>4</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>680.0</x>
+                    <y>199.0</y>
+                </strategy>
+                <id>4</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::5" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>5</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>680.0</x>
+                    <y>351.0</y>
+                </strategy>
+                <id>5</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]::WayPoint::6" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>6</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>6</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft9, trupp:Trupp3)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp1</source>
+        <target>Einsatzkraft1</target>
+        <name>A_Trupp_Einsatzkraft</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>2..3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>Einsatzkraefte {ordered}</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft1, trupp:Trupp1)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp2</source>
+        <target>Einsatzkraft5</target>
+        <name>A_Trupp_Einsatzkraft</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>Einsatzkraefte {ordered}</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::3</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>2..3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::3</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::3</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>330.0</x>
+                    <y>147.0</y>
+                </strategy>
+                <id>1</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::2" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>2</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>330.0</x>
+                    <y>290.0</y>
+                </strategy>
+                <id>2</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]::WayPoint::3" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>3</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft5, trupp:Trupp2)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzinformationen1</source>
+        <target>Trupp3</target>
+        <name>A_Trupp_Einsatzinformationen</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzinformationen</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzinformationen</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp3)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzkraft8</source>
+        <target>PAGeraet8</target>
+        <name>A_Einsatzkraft_PAGeraet</name>
+        <properties>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Einsatzkraft_PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::WayPoint::0</related0>
+                        <related1>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet8, einsatzkraft:Einsatzkraft8)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzkraft7</source>
+        <target>PAGeraet7</target>
+        <name>A_Einsatzkraft_PAGeraet</name>
+        <properties>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Einsatzkraft_PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::WayPoint::0</related0>
+                        <related1>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet7, einsatzkraft:Einsatzkraft7)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzinformationen1</source>
+        <target>Trupp1</target>
+        <name>A_Trupp_Einsatzinformationen</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzinformationen</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzinformationen</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp1)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzkraft2</source>
+        <target>PAGeraet2</target>
+        <name>A_Einsatzkraft_PAGeraet</name>
+        <properties>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Einsatzkraft_PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::WayPoint::0</related0>
+                        <related1>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet2, einsatzkraft:Einsatzkraft2)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp3</source>
+        <target>Einsatzkraft7</target>
+        <name>A_Trupp_Einsatzkraft</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>2..3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::WayPoint::2</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>Einsatzkraefte {ordered}</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::WayPoint::2</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::WayPoint::2</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>777.0</x>
+                    <y>77.0</y>
+                </strategy>
+                <id>1</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]::WayPoint::2" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>2</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>2</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft7, trupp:Trupp3)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzkraft1</source>
+        <target>PAGeraet1</target>
+        <name>A_Einsatzkraft_PAGeraet</name>
+        <properties>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Einsatzkraft_PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::WayPoint::0</related0>
+                        <related1>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToCorner">
+                    <userOffsetX>209.50752670774338</userOffsetX>
+                    <userOffsetY>-138.0</userOffsetY>
+                    <basisDeltaX>ABSOLUTE</basisDeltaX>
+                    <deltaX>0.0</deltaX>
+                    <maxDeltaX>1.7976931348623157E308</maxDeltaX>
+                    <basisDeltaY>ABSOLUTE</basisDeltaY>
+                    <deltaY>0.0</deltaY>
+                    <maxDeltaY>1.7976931348623157E308</maxDeltaY>
+                    <corner>NORTH_WEST</corner>
+                    <relativeNodeId>PAGeraet1</relativeNodeId>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet1, einsatzkraft:Einsatzkraft1)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp2</source>
+        <target>Einsatzkraft6</target>
+        <name>A_Trupp_Einsatzkraft</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>Einsatzkraefte {ordered}</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::3</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>2..3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::3</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::3</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>337.0</x>
+                    <y>148.0</y>
+                </strategy>
+                <id>1</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::2" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>2</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>337.0</x>
+                    <y>346.0</y>
+                </strategy>
+                <id>2</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]::WayPoint::3" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>3</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft6, trupp:Trupp2)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp1</source>
+        <target>Einsatzkraft2</target>
+        <name>A_Trupp_Einsatzkraft</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>2..3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::4</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>Einsatzkraefte {ordered}</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::4</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::4</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>10.0</x>
+                    <y>84.0</y>
+                </strategy>
+                <id>1</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::2" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>2</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>3.0</x>
+                    <y>79.0</y>
+                </strategy>
+                <id>2</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::3" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>3.0</x>
+                    <y>270.0</y>
+                </strategy>
+                <id>3</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]::WayPoint::4" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>4</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>4</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft2, trupp:Trupp1)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzkraft6</source>
+        <target>PAGeraet6</target>
+        <name>A_Einsatzkraft_PAGeraet</name>
+        <properties>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Einsatzkraft_PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::WayPoint::0</related0>
+                        <related1>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet6, einsatzkraft:Einsatzkraft6)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp3</source>
+        <target>Einsatzauftrag3</target>
+        <name>A_Trupp_Einsatzauftrag</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>aktuellerEinsatzauftrag</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzauftrag</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzauftrag : (aktuellerEinsatzauftrag:Einsatzauftrag3, trupp:Trupp3)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzkraft5</source>
+        <target>PAGeraet5</target>
+        <name>A_Einsatzkraft_PAGeraet</name>
+        <properties>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Einsatzkraft_PAGeraet</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::WayPoint::0</related0>
+                        <related1>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Einsatzkraft_PAGeraet : (PAGeraet:PAGeraet5, einsatzkraft:Einsatzkraft5)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp2</source>
+        <target>Einsatzkraft4</target>
+        <name>A_Trupp_Einsatzkraft</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>Einsatzkraefte {ordered}</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>2..3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft4, trupp:Trupp2)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Einsatzinformationen1</source>
+        <target>Trupp2</target>
+        <name>A_Trupp_Einsatzinformationen</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::WayPoint::1</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>einsatzinformationen</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzinformationen</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::WayPoint::1</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>1</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzinformationen : (einsatzinformationen:Einsatzinformationen1, trupp:Trupp2)]</linkValue>
+    </edge>
+    <edge type="BinaryEdge">
+        <source>Trupp3</source>
+        <target>Einsatzkraft8</target>
+        <name>A_Trupp_Einsatzkraft</name>
+        <properties>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::target::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>2..3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::5</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::target::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>Einsatzkraefte {ordered}</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::5</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::source::multiplicity" sizeCalculated="true" type="multiplicity" userDefined="false" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>BOTTOM</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::source::rolename" sizeCalculated="true" type="rolename" userDefined="false" visible="true">
+                <name>trupp</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyRelativeToAttached">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <attached>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::0</attached>
+                    <offset_x>8</offset_x>
+                    <offset_y>8</offset_y>
+                    <placement>TOP</placement>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::AssociationName" sizeCalculated="true" type="associationName" userDefined="false" visible="true">
+                <name>A_Trupp_Einsatzkraft</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyInBetween">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                    <offsetX>0.0</offsetX>
+                    <offsetY>-10.0</offsetY>
+                    <related length="2">
+                        <related0>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::0</related0>
+                        <related1>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::5</related1>
+                    </related>
+                </strategy>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </properties>
+        <waypoints>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::0" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>0</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>0</id>
+                <specialid>1</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::1" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>1</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>737.0</x>
+                    <y>72.0</y>
+                </strategy>
+                <id>1</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::2" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>2</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>737.0</x>
+                    <y>196.0</y>
+                </strategy>
+                <id>2</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::3" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>3</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>688.0</x>
+                    <y>196.0</y>
+                </strategy>
+                <id>3</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::4" sizeCalculated="true" type="WayPoint" userDefined="true" visible="true">
+                <name>4</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyFixed">
+                    <x>688.0</x>
+                    <y>294.0</y>
+                </strategy>
+                <id>4</id>
+                <specialid>0</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+            <edgeproperty id="[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]::WayPoint::5" sizeCalculated="true" type="WayPoint" userDefined="false" visible="true">
+                <name>5</name>
+                <strategy type="org.tzi.use.gui.views.diagrams.elements.positioning.StrategyAttachedIntersection">
+                    <userOffsetX>0.0</userOffsetX>
+                    <userOffsetY>0.0</userOffsetY>
+                </strategy>
+                <id>5</id>
+                <specialid>2</specialid>
+                <hidden>false</hidden>
+            </edgeproperty>
+        </waypoints>
+        <hidden>false</hidden>
+        <linkValue>[A_Trupp_Einsatzkraft : (Einsatzkraefte:Einsatzkraft8, trupp:Trupp3)]</linkValue>
+    </edge>
+</diagram_Layout>

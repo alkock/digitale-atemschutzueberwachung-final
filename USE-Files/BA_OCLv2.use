@@ -1,0 +1,123 @@
+model Atemschutzueberwachung
+
+--enumerations
+    enum Status {START, ZIEL, RUECKZUGSOLL, RUECKZUGIST, KONTROLLE1o3, KONTROLLE2o3, ENDE, NICHTS}
+    enum Funktion {TRUPPFUEHRER, TRUPPMANN, TRUPPMANN2}
+
+--klassen
+    class Datum
+    -- Darstellung eines Klasse, welche ein Datum beinhaltet (dd.MM.yyyy)
+    end
+
+    class Countdown
+    -- Darstellung einer Klasse, die ein Countdown hh:mm:ss darstellt und Start,Stop,End-Funktionalitäten besitzt.
+    end
+
+    class Einsatzinformationen
+    attributes
+        EinsatzstrasseundHausnummer : String
+        Einsatznummer : Integer
+        Rufgruppe : String
+        Einheitsfuehrer : String
+        Datum : Datum
+    end
+
+    class Trupp
+    attributes
+        Funkrufname : String
+        Einsatzstatus : Status 
+        Timer : Countdown
+    end
+
+    class Einsatzkraft
+    attributes
+        Name : String
+        Funktion : Funktion
+    end
+
+    class PAGeraet
+    attributes
+        maximalerDruck : Integer
+        rueckzugsolldruck : Real derived = ( self.wert[#START].druck - self.wert[#ZIEL].druck ) * 2
+    operations
+        setzeDruck(status : Status, wert : Integer)
+        getRueckzugSollDruck(): Real = ( self.wert[#START].druck - self.wert[#ZIEL].druck ) * 2
+    end
+
+    class Einsatzauftrag
+    attributes
+        Auftrag : String
+        maximaleEinsatzzeit : Integer
+        Bemerkungen : String
+    end
+
+    class Messwert
+    attributes
+        druck : Integer
+        zeitpunkt : Integer
+    end
+
+--assoziationen
+    association MapTiles between -- Status als Beziehung (Qualifier) über Messwert (PAG) - [Status] -> (Druck))
+        PAGeraet[1] role geraet qualifier (x:Status)
+        Messwert[0..1] role wert -- Felder
+    end
+
+    association A_Einsatzkraft_PAGeraet between
+        Einsatzkraft[1]
+        PAGeraet[1] role PAGeraet
+    end
+
+    association A_Trupp_Einsatzauftrag between
+        Trupp[1] 
+        Einsatzauftrag[1] role aktuellerEinsatzauftrag
+    end
+
+    association A_Trupp_Einsatzkraft between
+        Trupp[1]
+        Einsatzkraft[2..3] role Einsatzkraefte ordered 
+    end
+
+    association A_Trupp_Einsatzinformationen between
+        Einsatzinformationen[1]
+        Trupp[3]
+    end
+
+--invarianten
+constraints
+    context Einsatzinformationen
+        inv definiereGrundlegendeEinsatzinformationen: --ocl1
+            self.EinsatzstrasseundHausnummer.isDefined() and
+            self.Einsatznummer.isDefined() and
+            self.Rufgruppe.isDefined()
+
+    context Trupp
+        inv funkrufnameTrupp: --ocl2
+            self.Funkrufname.isDefined() 
+        inv nurBestimmteEinsatzstatus: --ocl3
+            (self.Einsatzstatus = Status::NICHTS or
+            self.Einsatzstatus = Status::START or
+            self.Einsatzstatus = Status::ENDE) 
+        inv beiEinsatzbeginnCountdownDefiniert: --ocl4
+            (self.Einsatzstatus = Status::NICHTS implies self.Timer.isUndefined()) and
+            (self.Einsatzstatus = Status::START implies self.Timer.isDefined()) and
+            (self.Einsatzstatus = Status::ENDE implies self.Timer.isDefined())
+        inv EinsatzkraefteMitRichtigerQualifikation: --ocl5
+            self.Einsatzkraefte->size() = 2 implies (self.Einsatzkraefte->exists(ek | ek.Funktion = Funktion::TRUPPFUEHRER) and self.Einsatzkraefte->exists(ek | ek.Funktion = Funktion::TRUPPMANN)) and
+            self.Einsatzkraefte->size() = 3 implies (self.Einsatzkraefte->exists(ek | ek.Funktion = Funktion::TRUPPFUEHRER) and self.Einsatzkraefte->exists(ek | ek.Funktion = Funktion::TRUPPMANN) and self.Einsatzkraefte->exists(ek | ek.Funktion = Funktion::TRUPPMANN2))
+    
+    context Einsatzauftrag
+        inv definiereEinsatzauftrag: --ocl6
+            self.Auftrag.isDefined()
+
+    context Einsatzkraft
+        inv definiereGrundlegendeEinsatzkraftinformationen: --ocl7
+            self.Name.isDefined() and
+            self.Funktion.isDefined()
+
+    context PAGeraet
+        inv definiereGrundlegendePAInformationen: --ocl8
+            self.maximalerDruck >= 0
+
+
+ 
