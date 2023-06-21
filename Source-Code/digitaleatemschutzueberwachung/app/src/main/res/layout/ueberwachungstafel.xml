@@ -1,0 +1,606 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/Ueberwachungstafel">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#C0C0C0"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/einsatznummer"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Einsatznummer: 2023 2345678"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/datum"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Datum: 12.02.2023"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/einsatzadresse"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Einsatzstraße: Musterstraße 1"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/rufgruppe"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Rufgruppe"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/einsatzleiter"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Einsatzleiter: LOL 1"
+            android:textSize="18sp" />
+        <Button
+            android:id="@+id/neuer_einsatz"
+            android:layout_width="150px"
+            android:layout_height="wrap_content"
+            android:text="NEU"
+        />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="#E0E0E0"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/funkrufname"
+                    android:textAlignment="center"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Funkrufname: Angriffstrupp HLF-1"
+                    android:textSize="18sp" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/zweitruppeins_einsatzzeit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text=""
+                        android:textSize="24sp" />
+                    <TextView
+                        android:id="@+id/platzhalter"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/truppfuehrer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="Truppführer: Name1"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/truppmann"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="Truppmann:  Name2"
+                        android:textSize="18sp" />
+                    <TextView
+                        android:id="@+id/truppmann2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="Truppmann 2: Name2"
+                        android:textSize="18sp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/label_start"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="START
+                        0:00"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/label_start_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="--:-- Uhr"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/start_truppfuehrer_druck"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/start_truppmann_druck"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/start_truppmann2_druck"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/label_eindrittel"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="1/3
+                        0:00"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/label_eindrittel_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="--:-- Uhr"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/eindrittel_truppfuehrer_druck"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/eindrittel_truppmann_druck"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/eindrittel_truppmann2_druck"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/label_zweidrittel"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="2/3
+                        0:00"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/label_zweidrittel_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="--:-- Uhr"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/zweidrittel_truppfuehrer_druck"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/zweidrittel_truppmann_druck"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/zweidrittel_truppmann2_druck"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/label_ziel"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="ZIEL
+                        ---
+"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/label_ziel_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="--:-- Uhr"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/ziel_druck_truppfuehrer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/ziel_druck_truppmann"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/ziel_druck_truppmann2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/label_rueckzugsoll"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="RÜCKZUG
+                        SOLL"
+
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/label_rueckzugsoll_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text=""
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/rueckzugsoll_druck_truppfuehrer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/rueckzugsoll_druck_truppmann"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/rueckzugsoll_druck_truppmann2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/label_rueckzugist"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="RÜCKZUG
+                        IST"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/label_rueckzugist_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="--:-- Uhr"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/rueckzugist_druck_truppfuehrer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/rueckzugist_druck_truppmann"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/rueckzugist_druck_truppmann2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/label_ende"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="ENDE
+                        0:00"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/label_ende_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="--:-- Uhr"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:id="@+id/ende_druck_truppfuehrer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/ende_druck_truppmann"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:id="@+id/ende_druck_truppmann2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="---bar"
+                        android:textSize="30sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/verortung"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="Standort: ---"
+                        android:textSize="24sp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/aktion_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:layout_weight="1"
+                        android:text="START"
+                        android:backgroundTint="#32CD32"/>
+                </LinearLayout>
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:background="@color/black"/>
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="0"
+                android:background="#E0E0E0"
+                android:orientation="horizontal">
+
+
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <Button
+                        android:id="@+id/erstertrupp"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:layout_weight="1"
+                        android:backgroundTint="#919191"
+                        android:text="FUNKRUFNAME TRUPP 1 0:00"
+                        />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/zweitertrupp"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:layout_weight="1"
+                        android:backgroundTint="#919191"
+                        android:text="FUNKRUFNAME TRUPP 2 0:00" />
+
+
+                </LinearLayout>
+
+
+
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/drittertrupp"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:layout_weight="1"
+                        android:text="FUNKRUFNAME TRUPP 3 0:00"
+                        android:backgroundTint="#919191"/>
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
