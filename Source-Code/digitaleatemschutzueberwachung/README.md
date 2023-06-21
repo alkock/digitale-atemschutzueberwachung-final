@@ -8,6 +8,8 @@ Statistik des Repos:
 
 Insbesondere die failed Pipes haben viele Fehler aufdecken können.
 
+:warning: Die Espressotests sind plattformabhängig geschrieben. Falls ihr Tablettyp vom Samsung Galaxy Tab 4 (SM-T530) abweicht, kann es sein, dass diese nicht funktionieren. Im Rahmen der Prüfungsbewertung würde ich Ihnen leihweise eines zur Verfügung stellen.
+
 Die verwendete CI-Pipeline ist folgende:
 
 ```
