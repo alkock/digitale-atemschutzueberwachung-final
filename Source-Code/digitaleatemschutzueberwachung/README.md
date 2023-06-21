@@ -1,5 +1,14 @@
 # Source-Code
-Das Originalprojekt wurde in einem privaten Repository erstellt. Die verwendete CI-Pipeline ist folgende:
+Das Originalprojekt wurde in einem privaten Repository erstellt. 
+Statistik des Repos:
+
+![Commits](https://img.shields.io/badge/Originale%20Commits-98-blue)
+
+![Failed_CI](https://img.shields.io/badge/Failed_CI%20Pipes-15-red)
+
+Insbesondere die failed Pipes haben viele Fehler aufdecken können.
+
+Die verwendete CI-Pipeline ist folgende:
 
 ```
 name: Android CI
